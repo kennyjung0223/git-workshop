@@ -17,5 +17,7 @@
   * `git add .`
   * `git commit -m "<MEANINGFUL COMMIT MESSAGE>`
   * `git push origin <YOUR_BRANCH_NAME>`
-## 5. Create a Pull Request (PR) on GitHub
+## 5. Create a Pull Request (PR) on GitHub\
+  * For information on squashing commits, go [here](https://www.cloudbees.com/blog/git-squash-how-to-condense-your-commit-history)
 ## 6. After your PR is approved, merge your changes to the main branch
+  * Yay!
