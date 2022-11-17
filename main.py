@@ -5,7 +5,8 @@ def subtract_two_nums(num1, num2):
 	print(num1 - num2)
 	
 def multiply_two_nums(num1, num2):
-	return
+	print(num1 * num2)
+	return num1 * num2
 
 def divide_two_nums(num1, num2):
 	# assume num2 is not equal to 0
