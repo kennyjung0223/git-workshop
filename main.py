@@ -23,7 +23,11 @@ def cube_two_nums(num1):
 	# assume num1 > 0
 	return
 
-def 4th_power(num1):
+def fourth_power(num1):
+	# assume num1 > 0
+	return
+
+def fifth_power(num1):
 	# assume num1 > 0
 	return
 
@@ -35,4 +39,5 @@ if __name__ == '__main__':
 	modular_two_nums(6, 3)				# expected: 0
 	square_two_nums(6)				# expected: 36
 	cube_two_nums(6)				# expected: 216
-	4th_power(2)				# expected: 16
+	fourth_power(2)				# expected: 16
+	fifth_power(2)				# expected: 32
