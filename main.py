@@ -1,27 +1,27 @@
 def add_two_nums(num1, num2):
-	return
+	print(num1 + num2)
 
 def subtract_two_nums(num1, num2):
-	return
+	print(num1 - num2)
 	
 def multiply_two_nums(num1, num2):
-	return
+	print(num1 * num2)
 
 def divide_two_nums(num1, num2):
 	# assume num2 is not equal to 0
-	return
+	    print(num1 / num2)
 
 def modular_two_nums(num1, num2):
 	# assume num2 is not equal to 0
-	return
+	    print(num1 % num2)
 
 def square_two_nums(num1):
 	# assume num1 > 0
-	return
+	    print(num1 * num1)
 	
 def cube_two_nums(num1):
 	# assume num1 > 0
-	return
+	    print(num1 * num1 * num1)
 
 
 if __name__ == '__main__':
